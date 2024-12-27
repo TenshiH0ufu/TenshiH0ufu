@@ -4,6 +4,7 @@
 
 
 🎓 Bacharelando em Sistemas de Informação - UFBA
+
 📱 Trainee de Dev Mobile - TITAN
 
 
