@@ -13,14 +13,14 @@
 
 - **Habilidades Técnicas:** 
 
-<img src= "imagens/python.jpg" width="50" height="30" />  <img src = "imagens/c++.png" width="50" height="30" />   <img src= "imagens/git.png" width="50" height="30" />
+<img src= "imagens/python.jpg" width="120" height="30" />    <img src = "imagens/c++.png" width="27" height="30" />    <img src= "imagens/git.png" width="30" height="30" />
 
  
 ## Contato:
 <a href="https://www.linkedin.com/in/lucas-santana-7a3476300/">
-    <img src="imagens/linkedin.png" width="50" height="60"/>
+    <img src="imagens/linkedin.png" width="120" height="30"/>
 </a>
 
 <a href="mailto:lucassbleal9@gmail.com">
-  <img src="imagens/gmail.png" width="50" height="30" />
+  <img src="imagens/gmail.png" width="40" height="30" />
 </a>
