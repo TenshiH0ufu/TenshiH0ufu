@@ -4,15 +4,16 @@
 
 
 🎓 Bacharelando em Sistemas de Informação - UFBA
+
 📱 Trainee de Dev Mobile - TITAN
 
 
 
-- **Metas de Aprendizado:** Quero aprender a programar para desenvolver aplicativos de Desktop e Mobile. Penso em trabalhar com jogos, sempre achei mágico o mundo dos games e trabalhar com isso seria um sonho realizado. 
+- **Metas de Aprendizado:** Quero aprender a programar para desenvolver aplicativos de Desktop e Mobile. Penso em trabalhar com jogos, sempre achei mágico o mundo dos games.
 
-- **Habilidades Técnicas:** ![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3APython_logo_and_wordmark.svg&psig=AOvVaw0HyVXiHuDOjKAB8BOK7voZ&ust=1735350008992000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjghtfoxooDFQAAAAAdAAAAABAE)   C++   Git  Github  
+- **Habilidades Técnicas:** ![Python](imagens/python.jpg)  ![C++](imagens/c++.png)   ![Git](imagens/git.png) ![Github](imagens/github.png)  
 ## Contato:
-[Linkedin](https://www.linkedin.com/in/lucas-santana-7a3476300/)
+[![Linkedin](imagens/linkedin.png)](https://www.linkedin.com/in/lucas-santana-7a3476300/)
 
-[Gmail](lucassbleal9@gmail.com)
+[![Gmail](imagens/gmail.png)](mailto:lucassbleal9@gmail.com)
 
