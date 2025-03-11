@@ -5,11 +5,9 @@
 
 🎓 Bacharelando em Sistemas de Informação - UFBA
 
-📱 Trainee de Dev Mobile - TITAN
 
 
 
-- **Metas de Aprendizado:** Quero aprender a programar para desenvolver aplicativos de Desktop e Mobile. Penso em trabalhar com jogos, sempre achei mágico o mundo dos games.
 
 ## Habilidades Técnicas:
 
